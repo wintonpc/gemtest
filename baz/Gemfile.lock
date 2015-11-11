@@ -1,0 +1,18 @@
+GIT
+  remote: git://github.com/wintonpc/gemtest.git
+  revision: 49868d2838c8399baf196375ccd5871755227dde
+  specs:
+    foo (1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  foo!
+
+BUNDLED WITH
+   1.10.6
